@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Himanshu 👋
 
 <!--
 **Himanshu40/Himanshu40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [Censor Dispensor](https://github.com/Himanshu40/Censor-Dispenser) which is a small project from [Codecademy](https://www.codecademy.com/)
+- 🌱 I’m currently learning **Python** :snake:
+- ⚡ Fun fact: I play **CSGO** a lot.
+
+#### Programming Languages  :rocket:
+
+
+#### Tools  :wrench:
+
+#### Connect with me :smiley:
