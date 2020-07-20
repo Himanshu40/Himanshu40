@@ -18,4 +18,7 @@ I'm <a href="https://www.instagram.com/_.h1manshu._/">Himanshu</a> currently a 2
 
 ### Achievements :trophy:
 
-### Connect with me :smiley:
+1. [Google Code-in Grand Prize Winner for BRL-CAD](https://drive.google.com/file/d/1mtlIKpu0i77iZrTW4ebJNru1kHBsmiO-/view?usp=sharing)
+2. [Google Code-in Finalist for RTEMS](https://drive.google.com/file/d/0B5x0QRoXIMe6WG1FOTBIY3o1ME0/view?usp=sharing)
+
+### Connect with me :dizzy:
