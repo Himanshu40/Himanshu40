@@ -8,7 +8,8 @@ I'm <a href="https://www.instagram.com/_.h1manshu._/">Himanshu</a> currently a 2
 
 ### Programming Languages  :rocket:
 
-
+| <img src="https://raw.githubusercontent.com/Himanshu40/Himanshu40/master/img/c.png" width=60> | <img src="https://raw.githubusercontent.com/Himanshu40/Himanshu40/master/img/cpp.png" width=50> |
+|:---:|:---:|
 
 ### Tools  :wrench:
 
