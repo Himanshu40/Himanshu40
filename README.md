@@ -1,26 +1,7 @@
-### Hi, I'm Himanshu 👋
+## Hey yo, Devs :metal:
 
-<!--
-**Himanshu40/Himanshu40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages  :rocket:
 
-Here are some ideas to get you started:
+### Tools  :wrench:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on [Censor Dispensor](https://github.com/Himanshu40/Censor-Dispenser) which is a small project from [Codecademy](https://www.codecademy.com/)
-- 🌱 I’m currently learning **Python** :snake:
-- ⚡ Fun fact: I play **CSGO** a lot.
-
-#### Programming Languages  :rocket:
-
-
-#### Tools  :wrench:
-
-#### Connect with me :smiley:
+### Connect with me :smiley:
