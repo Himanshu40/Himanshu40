@@ -6,6 +6,8 @@ I'm <a href="https://www.instagram.com/_.h1manshu._/" target="_blank">Himanshu</
 </samp>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Himanshu40&color=green)
+
 ### Programming Languages  :rocket:
 
 | <img title="C" src="https://raw.githubusercontent.com/Himanshu40/Himanshu40/master/img/c.png" width=60> | <img title="C++" src="https://raw.githubusercontent.com/Himanshu40/Himanshu40/master/img/cpp.png" width=50> | <img title="Bash" src="https://raw.githubusercontent.com/Himanshu40/Himanshu40/master/img/bash.png" width=60> |
