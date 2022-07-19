@@ -1,4 +1,4 @@
-## Hey yo, Devs :metal:
+## Hi, Devs :metal:
 
 <p align="center">
 <samp>
