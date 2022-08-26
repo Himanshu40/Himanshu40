@@ -1,7 +1,7 @@
 ## Hi, Devs :metal:
 
 <samp>
-I'm <a href="https://www.instagram.com/_.h1manshu._/" target="_blank">Himanshu</a>, currently a 3rd year BCA student at <a href="http://utkaluniversity.nic.in" target="_blank">Utkal University</a>.
+I'm <a href="https://www.instagram.com/_.h1manshu._/" target="_blank">Himanshu</a>, completed Bachelor's in Computer Application at <a href="http://utkaluniversity.nic.in" target="_blank">Utkal University</a>.
 </samp>
 
 
