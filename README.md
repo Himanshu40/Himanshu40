@@ -1,7 +1,7 @@
 ## Hi, Devs :metal:
 
 <samp>
-I'm <a href="https://www.linkedin.com/in/himanshu-sekhar-nayak/" target="_blank">Himanshu</a>, completed Bachelor's in Computer Application at <a href="https://utkaluniversity.ac.in/departments/5-years-integrated-master-in-computer-application/" target="_blank">Utkal University</a>.
+I'm <a href="https://www.linkedin.com/in/himanshu-sekhar-nayak/" target="_blank">Himanshu</a>, passionate in graphics programming.
 </samp>
 
 
