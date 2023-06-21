@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A passionate computer graphics programmer from India</h3>
+<h3 align="center">A passionate computer graphics developer from India</h3>
 
 - 📫 How to reach me **h1manshu@pm.me**
 
